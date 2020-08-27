@@ -8,9 +8,6 @@ title: Welcome!
 My name is Maxim Geronime. I am a third year student at the University of Maryland, College Park. I am currently majoring in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
 ![Me](/img/me.jpg)
 
-# Projects
-
-Coming Soon!
 
 # Skills
 Some of my technical skills include but are not limited to:
@@ -22,6 +19,17 @@ Some of my technical skills include but are not limited to:
 - MATLAB
 - Unity
 
+# Projects
+
+Coming Soon!
+
+# Experience 
+
+**Philmont Scout Ranch - Wilderness Adventure and Backpacking Guide**
+
+Summer 2019, Summer 2020 **(Cancelled due to COVID-19)**
+
+Guided groups of 8-12 scouts and adults through the Rocky Mountains for 3 days at a time. Educated participants on proper backpacking practices and outdoor ethics. 
 
 # Interests
 
