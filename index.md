@@ -6,7 +6,7 @@ title: Welcome!
 # About
 
 My name is Maxim Geronime. I am a third year student at the University of Maryland, College Park. I am currently majoring in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
-![Me](/assets/images/me.jpg)
+![Me](/img/me.jpg)
 
 # Projects
 
@@ -30,13 +30,13 @@ Coming Soon!
 # Hobbies
 
 ### Exploring
-![Mountains](/assets/images/backpacking.JPG)
-![Bryce](/assets/images/bryce.jpg)
+![Mountains](/img/backpacking.JPG)
+![Bryce](/img/bryce.jpg)
 
 
 ### Creating
-![Fish Tank](/assets/images/fish.jpg)
-![Bread](/assets/images/bread.jpg)
+![Fish Tank](/img/fish.jpg)
+![Bread](/img/bread.jpg)
 
 
 
