@@ -5,7 +5,7 @@ title: Welcome!
 
 # About
 
-My name is Maxim Geronime. I am a third year student at the University of Maryland, College Park. I am currently majoring in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
+My name is Maxim Geronime. I am a third year student at the University of Maryland, College Park currently majoring in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
 ![Me](/img/me.jpg)
 
 
@@ -21,7 +21,9 @@ Some of my technical skills include but are not limited to:
 
 # Projects
 
-Coming Soon!
+**vRchery - Group Project**
+
+A virtual reality game that involved shooting targets with a bow. Utilized complex bow and arrow mechanics and an advanced scoring system. Created in Unity and used C#. Project can be found [here](https://github.com/Daniel-Mansfield/vRchery).
 
 # Experience 
 
