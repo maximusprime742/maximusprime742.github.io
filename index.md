@@ -30,6 +30,10 @@ I have a number of soft skills as well that have been developed through my years
 
 A virtual reality game that involved shooting targets with a bow. Consisted of fully animated bow and arrow mechanics, multiple difficulty ratings, and a dynamic scoring system. Created in Unity and used C#. Project can be found [here](https://github.com/Daniel-Mansfield/vRchery).
 
+**3-Bit Computer in Minecraft**
+
+Created a functional 3-bit computer in Minecraft using redstone. Constructed individual components (ALU, ROM, etc) then strung them all together at the end. This is possible because Minecraft is Turing Complete!
+
 # Experience 
 
 **Philmont Scout Ranch - Wilderness Adventure and Backpacking Guide**
@@ -40,9 +44,8 @@ Guided groups of 8-12 scouts and adults through the Rocky Mountains for 3 days a
 
 # Awards
 
-**Eagle Scout**
+**Eagle Scout** - Awarded in 2017
 
-Awarded in 2017
 As a Boy Scout, I developed many important life skills, earned all the necessary badges, took part in countless hours of community service, and held various high-level leadership positions within the troop to achieve the rank of Eagle Scout.
 My final project involved inputting a 25 foot flag pole and landscaping at my local pool.
 
