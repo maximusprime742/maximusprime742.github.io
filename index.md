@@ -47,7 +47,7 @@ Guided groups of 8-12 scouts and adults through the Rocky Mountains for 3 days a
 **Eagle Scout** - Awarded in 2017
 
 As a Boy Scout, I developed many important life skills, earned all the necessary badges, took part in countless hours of community service, and held various high-level leadership positions within the troop to achieve the rank of Eagle Scout.
-My final project involved inputting a 25 foot flag pole and landscaping at my local pool.
+My final project involved instalation of a 25-foot flag pole and landscaping at my local pool.
 
 
 # Interests
