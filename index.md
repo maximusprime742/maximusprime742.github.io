@@ -18,8 +18,9 @@ Some of my technical skills include, but are not limited to:
 - C
 - C#
 - R
-- Git
 - MATLAB
+- Git
+- Docker
 - Unity
 
 I have a number of soft skills as well that have been developed through my years in Scouts as well as my summer working at Philmont. I am an excellent teacher, an effective leader, and have lots of experience working in groups to achieve a common goal.
