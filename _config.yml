@@ -30,7 +30,7 @@ linkedin_username: maximgeronime
 github_username:  maximusprime742
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
