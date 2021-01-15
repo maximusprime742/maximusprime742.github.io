@@ -54,7 +54,7 @@ I have a number of soft skills as well that have been developed through my years
 
 **Music Through the Decades**
 
-Final project for introduction to data science. An in depth tutorial on how to use the Spotify API to take popular music in the last seven decades through the data science pipeline. This includes data collection, cleaning, visualization, and analysis. Created with Python. Project can be found [here](https://maximgeronime.com/final_tutorial/)
+Final project for introduction to data science. An in depth tutorial on how to use the Spotify API to take popular music in the last seven decades through the data science pipeline. This includes data collection, cleaning, visualization, and analysis. Created with Python. Project can be found [here](https://maximgeronime.com/final_tutorial/).
 
 **vRchery - Group Project**
 
@@ -93,7 +93,7 @@ I love doing anything in the outdoors. My favorite activities include rock climb
 
 
 ### Creating
-I have had numerous aquariums of various sizes over the past 6 years filled with fish, shrimp, plant, and/or snails. I enjoy baking too. Bread is my favorite but I always like trying new recipes. I am also a big fan of LEGO and frequently build with them when I have time.  A LEGO creation I have made can be found [here](https://drive.google.com/file/d/1SiWOdRe88m-0R7zn1SBCsStZWxWuopdn/view?usp=sharing)
+I have had numerous aquariums of various sizes over the past 6 years filled with fish, shrimp, plant, and/or snails. I enjoy baking too. Bread is my favorite but I always like trying new recipes. I am also a big fan of LEGO and frequently build with them when I have time.  A LEGO creation I have made can be found [here](https://drive.google.com/file/d/1SiWOdRe88m-0R7zn1SBCsStZWxWuopdn/view?usp=sharing).
 ![Fish Tank](/img/fish.jpg)
 ![Bread](/img/bread.jpg)
 
