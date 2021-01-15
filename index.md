@@ -64,7 +64,7 @@ A virtual reality game that involved shooting targets with a bow. Consisted of f
 
 Created a functional 3-bit computer in Minecraft using redstone. Constructed individual components (ALU, ROM, etc) then strung them all together at the end. This is possible because Minecraft is Turing Complete!
 
-# Experience 
+# Experience
 
 **Philmont Scout Ranch - Wilderness Adventure and Backpacking Guide**
 
@@ -87,13 +87,13 @@ Coming Soon!
 # Hobbies
 
 ### Exploring
-I love doing anything in the outdoors. My favorite activities include rock climbing, backpacking, and mountain biking. A LEGO creation I have made can be found [here](https://drive.google.com/file/d/1SiWOdRe88m-0R7zn1SBCsStZWxWuopdn/view?usp=sharing)
+I love doing anything in the outdoors. My favorite activities include rock climbing, backpacking, and mountain biking.
 ![Mountains](/img/backpacking.JPG)
 ![Woods](/img/woods.JPG)
 
 
 ### Creating
-I have had numerous aquariums of various sizes over the past 6 years filled with fish, shrimp, plant, and/or snails. I enjoy baking too. Bread is my favorite but I always like trying new recipes. I am also a big fan of LEGO and frequently build with them when I have time.
+I have had numerous aquariums of various sizes over the past 6 years filled with fish, shrimp, plant, and/or snails. I enjoy baking too. Bread is my favorite but I always like trying new recipes. I am also a big fan of LEGO and frequently build with them when I have time.  A LEGO creation I have made can be found [here](https://drive.google.com/file/d/1SiWOdRe88m-0R7zn1SBCsStZWxWuopdn/view?usp=sharing)
 ![Fish Tank](/img/fish.jpg)
 ![Bread](/img/bread.jpg)
 
