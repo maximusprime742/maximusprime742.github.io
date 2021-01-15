@@ -3,9 +3,7 @@ layout: default
 title: Welcome to my personal site!
 ---
 
-# About
-
-![Me](/img/me.JPG)
+![Me](/img/me.jpg)
 
 # Education
 
