@@ -5,9 +5,13 @@ title: Welcome!
 
 # About
 
-My name is Maxim Geronime. I am a third year student at the University of Maryland, College Park currently majoring in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
 ![Me](/img/me.jpg)
 
+# Education
+
+I am a third year undergraduate student at the University of Maryland, College Park currently working towards Bachelors of Sciences in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
+
+GPA - 3.495
 
 # Skills
 Some of my technical skills include, but are not limited to:
@@ -27,9 +31,13 @@ I have a number of soft skills as well that have been developed through my years
 
 # Projects
 
+**Music Through the Decades**
+
+Final project for introduction to data science. An in depth tutorial on how to use the Spotify API to take popular music in the last seven decades through the data science pipeline. This includes data collection, cleaning, visualization, and analysis. Created with Python. Project can be found [here](https://maximgeronime.com/final_tutorial/)
+
 **vRchery - Group Project**
 
-A virtual reality game that involved shooting targets with a bow. Consisted of fully animated bow and arrow mechanics, multiple difficulty ratings, and a dynamic scoring system. Created in Unity and used C#. Project can be found [here](https://github.com/Daniel-Mansfield/vRchery).
+A virtual reality game that involved shooting targets with a bow. Consisted of fully animated bow and arrow mechanics, multiple difficulty ratings, and a dynamic scoring system. Created in Unity and used C#. Project can be found [here](https://github.com/maximusprime742/vRchery).
 
 **3-Bit Computer in Minecraft**
 
@@ -60,7 +68,7 @@ Coming Soon!
 ### Exploring
 I love doing anything in the outdoors. My favorite activities include rock climbing, backpacking, and mountain biking.
 ![Mountains](/img/backpacking.JPG)
-![Bryce](/img/bryce.jpg)
+![Woods](/img/woods.jpg)
 
 
 ### Creating
