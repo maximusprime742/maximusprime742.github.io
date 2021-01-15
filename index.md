@@ -5,13 +5,34 @@ title: Welcome!
 
 # About
 
-![Me](/img/me.jpg)
+![Me](/img/me.JPG)
 
 # Education
 
-I am a third year undergraduate student at the University of Maryland, College Park currently working towards Bachelors of Sciences in Computer Science and Mathematics and minoring in Technology Entrepreneurship.
+I am a third year undergraduate student at the University of Maryland, College Park currently working towards Bachelors of Sciences in Computer Science and Mathematics and minoring in Technology Entrepreneurship and Spanish.
 
 GPA - 3.495
+
+# Coursework
+
+Previous Coursework:
+- Algorithms (two classes)
+- Bioinformatics
+- Programming Languages
+- Data Science
+- Linear Algebra (two classes)
+- Advanced Calculus
+- Differential Equations
+- Spanish (composition, heritage)
+- Technology Entrepreneurship (four classes)
+
+Upcoming Coursework:
+- Numerical Analysis
+- Advanced Calculus II
+- Machine Learning
+- Database Design
+- Technology Entrepreneurship
+- Spanish Literature
 
 # Skills
 Some of my technical skills include, but are not limited to:
@@ -56,7 +77,7 @@ Guided groups of 8-12 scouts and adults through the Rocky Mountains for 3 days a
 **Eagle Scout** - Awarded in 2017
 
 As a Boy Scout, I developed many important life skills, earned all the necessary badges, took part in countless hours of community service, and held various high-level leadership positions within the troop to achieve the rank of Eagle Scout.
-My final project involved instalation of a 25-foot flag pole and landscaping at my local pool.
+My final project involved installation of a 25-foot flag pole and landscaping at my local pool.
 
 
 # Interests
@@ -66,9 +87,9 @@ Coming Soon!
 # Hobbies
 
 ### Exploring
-I love doing anything in the outdoors. My favorite activities include rock climbing, backpacking, and mountain biking.
+I love doing anything in the outdoors. My favorite activities include rock climbing, backpacking, and mountain biking. A LEGO creation I have made can be found [here](https://drive.google.com/file/d/1SiWOdRe88m-0R7zn1SBCsStZWxWuopdn/view?usp=sharing)
 ![Mountains](/img/backpacking.JPG)
-![Woods](/img/woods.jpg)
+![Woods](/img/woods.JPG)
 
 
 ### Creating
@@ -90,6 +111,3 @@ Personal: <maxgeronime44@gmail.com>
 [LinkedIn](https://linkedin.com/in/maximgeronime)
 
 [GitHub](https://github.com/maximusprime742)
-
-
-
