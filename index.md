@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Welcome to my personal site!
+title: Welcome!
 ---
+
+# Welcome to my personal website. Here you can find some information about me, projects I have worked on, and some of my interests and hobbies.
 
 ![Me](/img/me.jpg)
 
@@ -77,6 +79,7 @@ Guided groups of 8-12 scouts and adults through the Rocky Mountains for 3 days a
 As a Boy Scout, I developed many important life skills, earned all the necessary badges, took part in countless hours of community service, and held various high-level leadership positions within the troop to achieve the rank of Eagle Scout.
 My final project involved installation of a 25-foot flag pole and landscaping at my local pool.
 
+**Dean's List** - 2018, 2020
 
 # Interests
 
@@ -98,7 +101,6 @@ I have had numerous aquariums of various sizes over the past 6 years filled with
 
 ### Music
 I have played trombone and ukulele for many years. I know a bit of guitar and am currently learning piano. My goal is to one day have my own grand piano and be able to play it!
-
 
 # Contact
 
