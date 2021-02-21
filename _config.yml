@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-site_favicon: favicon.ico
+site_favicon: favicon.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
