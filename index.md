@@ -3,7 +3,7 @@ layout: default
 title: Welcome!
 ---
 
-# Welcome to my personal website. Here you can find some information about me, projects I have worked on, and some of my interests and hobbies.
+# I am an energetic and determined computer science and mathematics student with a strong foundation in logic and a passion for learning. I am eager to apply my communication and teamwork skills in a professional setting as a software development intern.
 
 ![Me](/img/me.jpg)
 
