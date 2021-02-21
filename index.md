@@ -37,8 +37,8 @@ Upcoming Coursework:
 # Skills
 Some of my technical skills include, but are not limited to:
 - Java
-- Ruby
 - Python
+- Ruby 
 - OCaml
 - C
 - C#
@@ -83,7 +83,7 @@ My final project involved installation of a 25-foot flag pole and landscaping at
 
 # Interests
 
-Coming Soon!
+Anything computer science related! I'm not totally sure yet what I like so I want to investigate as many areas as I can to get a feel for what is available and what catches my eye.
 
 # Hobbies
 
