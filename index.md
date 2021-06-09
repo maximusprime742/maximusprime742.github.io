@@ -74,7 +74,6 @@ Created a functional 3-bit computer in Minecraft using redstone. Constructed ind
 Summer 2021 - In Progress
 
 Trained, coached, mentored, and evaluated eight Rangers (see description below) over the course of the summer. Taught classes throughout the summer on topics such as conflict resolution. 
-
 Full description can be found [here](https://20lisa1ukask2skqr737a50o-wpengine.netdna-ssl.com/wp-content/uploads/filestore/pdf/jobs/Ranger_Trainer_HW.pdf).
 
 **Philmont Scout Ranch - Ranger**
